@@ -1,0 +1,51 @@
+{
+    "categorias": [
+      {
+        "nombre": "Electrónica",
+        "productos": [
+          {
+            "nombre": "iPhone 13",
+            "marca": "Apple",
+            "precio": 999,
+            "variantes": [
+              { "color": "Negro", "almacenamiento": "128GB", "precio": 999 },
+              { "color": "Blanco", "almacenamiento": "256GB", "precio": 1099 }
+            ]
+          },
+          {
+            "nombre": "Galaxy S21",
+            "marca": "Samsung",
+            "precio": 799,
+            "variantes": [
+              { "color": "Negro", "almacenamiento": "128GB", "precio": 799 },
+              { "color": "Plateado", "almacenamiento": "256GB", "precio": 899 }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Hogar",
+        "productos": [
+          {
+            "nombre": "Dyson V11",
+            "marca": "Dyson",
+            "precio": 599,
+            "variantes": [
+              { "color": "Azul", "potencia": "Alta", "precio": 599 },
+              { "color": "Negro", "potencia": "Media", "precio": 549 }
+            ]
+          },
+          {
+            "nombre": "Nespresso Essenza Mini",
+            "marca": "Nespresso",
+            "precio": 149,
+            "variantes": [
+              { "color": "Rojo", "capacidad": "0.6L", "precio": 149 },
+              { "color": "Blanco", "capacidad": "0.6L", "precio": 149 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
