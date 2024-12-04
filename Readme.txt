@@ -1,4 +1,4 @@
-Link Git:
+Link Git:https://github.com/alejandrocampuscamara/RA3.git
 
 
 Archivo JSON: Contiene categorías, productos y variantes.
